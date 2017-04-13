@@ -1,0 +1,47 @@
+/* add your CSS here */
+
+ .card-container {
+ 	width : 348px;
+ 	border-radius: 5px;
+ 	box-shadow:
+               0 0 0 10px hsl(0, 0%, 90%),
+               0 0 0 15px hsl(0, 0%, 80%);
+    padding: 10px;
+    background: linear-gradient(to bottom right,#feac32, rgba(0,0,0,.1));
+
+}
+
+ #camel-image {
+ 	border-radius: 5px;
+ 	border: 1px solid grey;
+    padding:inherit;
+ 	background-color:rgba(0,0,255,.1);
+
+ }
+
+ .information {
+    border-radius: 5px;
+ 	border: 1px solid grey;
+ 	padding: inherit
+
+ }
+
+ .interesting-facts {
+   
+     padding: 5px;
+     font-style: italic;
+
+ }
+
+ .items {
+  list-style: none;
+
+ }
+ .Description {
+ 	 	padding: 5px;
+
+ }
+ .label {
+ 	font-weight: bold;
+
+ }
